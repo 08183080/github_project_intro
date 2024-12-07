@@ -1,0 +1,5 @@
+/build/
+/dist/
+/myenv/
+*.spec
+*.pyc

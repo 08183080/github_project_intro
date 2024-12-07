@@ -1,0 +1,79 @@
+[
+  {
+    "index": 0,
+    "tags": [
+      "project-overview"
+    ],
+    "content": [
+      "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+      "[docs.litellm.ai/docs/](https://docs.litellm.ai/docs/ \\\"https://docs.litellm.ai/docs/\\\")"
+    ]
+  },
+  {
+    "index": 1,
+    "tags": [
+      "license"
+    ],
+    "content": [
+      "### License",
+      "[ View license ](/BerriAI/litellm/blob/main/LICENSE)"
+    ]
+  },
+  {
+    "index": 2,
+    "tags": [
+      "stars-forks"
+    ],
+    "content": [
+      "[ 14.7k stars ](/BerriAI/litellm/stargazers)",
+      "[ 1.7k forks ](/BerriAI/litellm/forks)"
+    ]
+  },
+  {
+    "index": 3,
+    "tags": [
+      "branches-tags"
+    ],
+    "content": [
+      "[ Branches ](/BerriAI/litellm/branches)",
+      "[ Tags ](/BerriAI/litellm/tags)"
+    ]
+  },
+  {
+    "index": 4,
+    "tags": [
+      "activity"
+    ],
+    "content": [
+      "[ Activity ](/BerriAI/litellm/activity)"
+    ]
+  },
+  {
+    "index": 5,
+    "tags": [
+      "navigation-options"
+    ],
+    "content": [
+      "  * [ Code ](/BerriAI/litellm)",
+      "  * [ Issues 704 ](/BerriAI/litellm/issues)",
+      "  * [ Pull requests 196 ](/BerriAI/litellm/pulls)",
+      "  * [ Discussions ](/BerriAI/litellm/discussions)",
+      "  * [ Actions ](/BerriAI/litellm/actions)",
+      "  * [ Projects 0 ](/BerriAI/litellm/projects)",
+      "  * [ Security ](/BerriAI/litellm/security)",
+      "  * [ Insights ](/BerriAI/litellm/pulse)"
+    ]
+  },
+  {
+    "index": 6,
+    "tags": [
+      "repository-files"
+    ],
+    "content": [
+      "## Repository files navigation",
+      "  * [README](#)",
+      "  * [License](#)",
+      "  * [Security](#)"
+    ]
+  }
+]
